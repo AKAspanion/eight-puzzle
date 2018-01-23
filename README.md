@@ -1,5 +1,5 @@
 # Eight-Puzzle
-
+Generic program to solve 8-Puzzle or Sliding Numbered Tile puzzle.
 (https://en.wikipedia.org/wiki/Sliding_puzzle)
 
 Algorithms used in this implementation of 8 Puzzle Problem
